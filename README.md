@@ -1,7 +1,7 @@
 Hi 👋 My name is Shreyash Kale
 ==============================
 
-Web Developer & Designer
+Web Developer
 ------------------------
 
 *   🌍  I'm based in Amravati, IN
