@@ -32,7 +32,7 @@ Web Developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
+//<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/shreyashkale9"><img src="https://github-readme-stats.vercel.app/api?username=shreyashkale9&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=312e81&hide_border=true&show_icons=true" alt="shreyashkale9's GitHub stats" /></a>
 
