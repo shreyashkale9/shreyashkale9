@@ -1,10 +1,7 @@
 Hi 👋 My name is Shreyash Kale
 ==============================
 
-Web Developer
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+Software Developer
 ------------------------
 
 *   🌍  I'm based in Bengaluru, IN
