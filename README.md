@@ -5,7 +5,7 @@ Software Developer
 ------------------------
 
 *   🌍  I'm based in Bengaluru, IN
-*   🚀  See my portfolio at [shreyashkale.netlify.app](https://shreyashkale.netlify.app/)
+* 🚀  See my portfolio at <a href="https://shreyashkale.netlify.app/" target="_blank" rel="noopener noreferrer">shreyashkale.com</a>
 *   ✉️  You can contact me at [shreyashkale9@gmail.com](mailto:shreyashkale9@gmail.com)
 *   🤝  I'm open to collaborating on Reactjs<p align="left">
   
