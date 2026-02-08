@@ -2,9 +2,13 @@ Hi 👋 My name is Shreyash Kale
 ==============================
 
 Web Developer
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 ------------------------
 
 *   🌍  I'm based in Bengaluru, IN
+*   🚀  See my portfolio at [shreyashkale.com](https://your-portfolio-link.com)
 *   ✉️  You can contact me at [shreyashkale9@gmail.com](mailto:shreyashkale9@gmail.com)
 *   🤝  I'm open to collaborating on Reactjs<p align="left">
   
